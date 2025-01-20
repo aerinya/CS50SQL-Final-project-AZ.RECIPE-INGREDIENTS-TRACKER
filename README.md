@@ -1,4 +1,4 @@
-# Design Document
+# CS50 SQL Final project: Ingredient-Recipe Tracker
 
 By Anna Zwolińska
 
